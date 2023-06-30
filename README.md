@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelraad28&label=Profile%20views&color=0e75b6&style=flat" alt="miguelraad28" /> </p>
 
-- 🌱 Actualmente me sigo formando en **Wordpress y otras herramientas útiles para el desarrollo web**
+- 🌱 Actualmente me sigo formando en **Wordpress y otras herramientas útiles para el desarrollo mobile y web**
 
 - 🤝 Me encantaría formar un grupo de **programadores**
-
-- 💬 Pronto iniciaré en **React Native**
 
 - 📫 Contacto **miguelraad2020@gmail.com**
 
