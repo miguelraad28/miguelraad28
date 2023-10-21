@@ -1,10 +1,8 @@
 <h1 align="center">Hola 👋, soy Miguel Raad</h1>
 <h3 align="center">Full Stack Developer</h3>
-<h3 align="center">HTML, CSS, SCSS, JavaScript, ReactJs, NodeJs, Express, Websockets, MongoDB, MySQL, Mongoose, Sequelize</h3>
+<h3 align="center">HTML, CSS, SCSS, JavaScript, ReactJs, ReactNative, NodeJs, Express, Websockets, MongoDB, MySQL, Mongoose, Sequelize</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelraad28&label=Profile%20views&color=0e75b6&style=flat" alt="miguelraad28" /> </p>
-
-- 🌱 Actualmente me sigo formando en **Wordpress y otras herramientas útiles para el desarrollo mobile y web**
 
 - 🤝 Me encantaría formar un grupo de **programadores**
 
