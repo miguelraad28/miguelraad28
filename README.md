@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Senior Backend Engineer • Full Stack Developer • TypeScript Enthusiast
+Software Engineer
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@ Senior Backend Engineer • Full Stack Developer • TypeScript Enthusiast
 
 # 🚀 About Me
 
-💼 Full Stack Engineer with **3+ years of professional experience** building production applications.
+💼 Full Stack Engineer with **4+ years of professional experience** building production applications.
 
 ❤️ Passionate about **Backend Engineering**, scalable architectures, APIs and cloud infrastructure.
 
