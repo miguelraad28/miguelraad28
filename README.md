@@ -1,36 +1,27 @@
-<h1 align="center">
-  Hi 👋, I'm Miguel Raad
-</h1>
+<h1 align="center">Hi 👋, I'm Miguel Raad</h1>
 
-<h3 align="center">
-Software Engineer
-</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/miguelraad28">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=800&lines=Building+scalable+backend+systems;TypeScript+%7C+Node.js+%7C+Next.js;Learning+Java+%26+Spring+Boot;Cloud+%7C+System+Design+%7C+AI;Always+learning+something+new" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=4F8EF7&center=true&vCenter=true&width=850&lines=Building+scalable+backend+systems;TypeScript+%7C+Node.js+%7C+Next.js;Learning+Java+%26+Spring+Boot;Cloud+Engineering+%7C+System+Design;AI-powered+Software+Development" />
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=miguelraad28&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-<img src="https://img.shields.io/github/followers/miguelraad28?label=Followers&style=social"/>
-
+  <img src="https://komarev.com/ghpvc/?username=miguelraad28&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/miguelraad28?style=social" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨🏻‍💻 About Me
 
-💼 Software Engineer with **4+ years of professional experience** building production-ready web applications.
+🚀 Software Engineer with **4+ years of professional experience** building production-ready web applications.
 
-❤️ Passionate about **Backend Engineering**, scalable systems, APIs and cloud infrastructure.
+❤️ Passionate about **Backend Engineering**, APIs, scalable systems and cloud infrastructure.
 
-🧠 I enjoy designing clean architectures, improving performance and solving complex engineering problems.
+🧠 I enjoy designing clean architectures, solving challenging engineering problems and continuously improving software quality.
 
-🤖 AI is part of my daily workflow to automate repetitive tasks, accelerate development and improve code quality.
+🤖 AI is part of my daily workflow to automate repetitive tasks, accelerate development and improve developer productivity.
 
 🎓 Currently pursuing a **Computer Engineering** degree while working remotely.
 
@@ -38,59 +29,58 @@ Software Engineer
 
 ---
 
-# 💻 Tech Stack
+# 📊 Contribution Graph
 
-### Languages
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelraad28&theme=tokyo-night&hide_border=true"/>
+
+</p>
+---
+
+# ⚡ Tech Stack
+
+## 💻 Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=ts,js,java,html,css,sass"/>
-
+<img src="https://skillicons.dev/icons?i=ts,js,java,html,css,sass" />
 </p>
 
 ---
 
-### Backend
+## ⚙️ Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql" />
 </p>
 
 ---
 
-### Frontend
+## 🎨 Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs"/>
-
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
 
 ---
 
-### Cloud & DevOps
+## ☁️ Cloud & DevOps
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=docker,firebase,gcp,aws,git,github,cloudflare"/>
-
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,firebase,git,github,cloudflare" />
 </p>
 
 ---
 
-### IDE & Tools
+## 🛠 IDE & Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,photoshop"/>
-
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,photoshop" />
 </p>
 
 ---
 
-# ☁️ Cloud Knowledge
+# ☁️ Cloud Experience
 
 - ☁️ Google Cloud Foundations
 - ☁️ AWS Fundamentals
@@ -104,22 +94,23 @@ Software Engineer
 
 # 📚 Currently Learning
 
-- Java & Spring Boot
+- Java
+- Spring Boot
 - System Design
-- Microservices
 - Distributed Systems
 - Cloud Architecture
 - High Performance APIs
-- AI-assisted Software Engineering
+- AI-first Software Development
 
 ---
 
-# 🎯 Interests
+# 💡 Engineering Interests
 
 - Backend Engineering
 - Software Architecture
+- Distributed Systems
 - Scalability
-- SaaS Products
+- SaaS Platforms
 - Artificial Intelligence
 - Developer Experience
 - Performance Optimization
@@ -130,9 +121,9 @@ Software Engineer
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=miguelraad28&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=miguelraad28&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelraad28&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelraad28&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </p>
 
@@ -146,13 +137,26 @@ Software Engineer
 
 </p>
 
+
 ---
 
-# 🏆 GitHub Trophies
+# 🚀 Featured Technologies
 
-<p align="center">
+<p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=miguelraad28&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System_Design-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Clean_Architecture-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SOLID-Principles-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CI/CD-informational?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_First_Development-purple?style=for-the-badge"/>
 
 </p>
 
