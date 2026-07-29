@@ -8,59 +8,121 @@ Software Engineer
 
 <p align="center">
   <a href="https://github.com/miguelraad28">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems;TypeScript+%7C+Node.js+%7C+Next.js;Clean+Architecture+Advocate;Always+learning+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=800&lines=Building+scalable+backend+systems;TypeScript+%7C+Node.js+%7C+Next.js;Learning+Java+%26+Spring+Boot;Cloud+%7C+System+Design+%7C+AI;Always+learning+something+new" />
   </a>
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=miguelraad28&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/miguelraad28?label=Followers&style=social"/>
+
 </p>
 
 ---
 
 # 🚀 About Me
 
-💼 Full Stack Engineer with **4+ years of professional experience** building production applications.
+💼 Software Engineer with **4+ years of professional experience** building production-ready web applications.
 
-❤️ Passionate about **Backend Engineering**, scalable architectures, APIs and cloud infrastructure.
+❤️ Passionate about **Backend Engineering**, scalable systems, APIs and cloud infrastructure.
 
-🧠 Strong believer in writing **clean, maintainable and scalable code**.
+🧠 I enjoy designing clean architectures, improving performance and solving complex engineering problems.
 
-🤖 I actively leverage AI tools to improve development workflows, automate repetitive tasks and accelerate software delivery.
+🤖 AI is part of my daily workflow to automate repetitive tasks, accelerate development and improve code quality.
 
-🎓 Currently studying **Computer Engineering** while working remotely.
+🎓 Currently pursuing a **Computer Engineering** degree while working remotely.
 
-🌍 Open to remote opportunities worldwide.
+🌎 Open to remote opportunities worldwide.
 
 ---
 
-# ⚡ Tech Stack
+# 💻 Tech Stack
 
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,sass" />
-</p>
-
-### ⚙️ Backend
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+<img src="https://skillicons.dev/icons?i=ts,js,java,html,css,sass"/>
+
 </p>
 
-### 🎨 Frontend
+---
+
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql"/>
+
 </p>
 
-### ☁️ Cloud & DevOps
+---
+
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,firebase,cloudflare" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs"/>
+
 </p>
 
-### 🛠 Tools
+---
+
+### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,photoshop" />
+
+<img src="https://skillicons.dev/icons?i=docker,firebase,gcp,aws,git,github,cloudflare"/>
+
 </p>
+
+---
+
+### IDE & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,photoshop"/>
+
+</p>
+
+---
+
+# ☁️ Cloud Knowledge
+
+- ☁️ Google Cloud Foundations
+- ☁️ AWS Fundamentals
+- 📧 Amazon SES
+- 📨 Amazon SQS
+- 🌍 Cloudflare CDN
+- 🚀 DigitalOcean App Platform
+- 🔥 Firebase
+
+---
+
+# 📚 Currently Learning
+
+- Java & Spring Boot
+- System Design
+- Microservices
+- Distributed Systems
+- Cloud Architecture
+- High Performance APIs
+- AI-assisted Software Engineering
+
+---
+
+# 🎯 Interests
+
+- Backend Engineering
+- Software Architecture
+- Scalability
+- SaaS Products
+- Artificial Intelligence
+- Developer Experience
+- Performance Optimization
 
 ---
 
@@ -86,33 +148,22 @@ Software Engineer
 
 ---
 
-# 🌱 Currently Learning
+# 🏆 GitHub Trophies
 
-- ☁️ Cloud Architecture
-- 🏗️ System Design
-- ⚡ High Performance APIs
-- 🤖 AI-first Software Development
-- 🔒 Scalable Backend Patterns
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=miguelraad28&theme=tokyonight&no-frame=true&column=4"/>
 
-# 💡 Interests
-
-- Backend Engineering
-- Distributed Systems
-- SaaS Platforms
-- Artificial Intelligence
-- Performance Optimization
-- Developer Experience
+</p>
 
 ---
 
-# 🤝 Let's Connect
+# 📫 Let's Connect
 
 <p>
 
 <a href="mailto:miguelraad2020@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/miguel-raad-desarrollador-web/">
@@ -124,5 +175,7 @@ Software Engineer
 ---
 
 <p align="center">
+
 ⭐ Thanks for visiting my profile!
+
 </p>
